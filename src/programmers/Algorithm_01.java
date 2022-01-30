@@ -1,5 +1,6 @@
 class Solution {
     public String[] solution(String[] record) {
+        //
         //[진행중]
         //일단 record가 입력받는 스트링 배열인거 같음.
         //1. record 배열을 잘려서 파악하기.

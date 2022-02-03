@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 class Solution {
     public int solution(String s) {
-        int answer = s.length();
+        int answer = s.length(); 
 
         int maxDivider = s.length() / 2;
 

@@ -1,6 +1,6 @@
 class Solution {
     /*CASE_1*/
-    public int solution(String s) {
+    public int solution(String s) { 
         int answer = 0;
 
         for(int i=1; i<=(s.length()/2)+1; i++){//s가 9자리면 5번째까지 진행함.
